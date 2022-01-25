@@ -12,7 +12,7 @@ int main() {
     testPairToNumber(VIOLET, SLATE, 25);
     
     /* print the reference manual */
-    printReferEnceManual();
+    printReferenceManual();
     
     return 0;
 }
