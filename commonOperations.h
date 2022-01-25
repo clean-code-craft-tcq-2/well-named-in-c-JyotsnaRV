@@ -1,5 +1,5 @@
-#ifndef MAIN_INTERNAL_H
-#define MAIN_INTERNAL_H
+#ifndef COMMON_OPERATIONS_H
+#define COMMON_OPERATIONS_H
 /*
  **********************************************************************************************************************
  * Type definitions
@@ -8,4 +8,4 @@
 enum MajorColor {WHITE, RED, BLACK, YELLOW, VIOLET};
 enum MinorColor {BLUE, ORANGE, GREEN, BROWN, SLATE};
 
-#endif /* MAIN_INTERNAL_H */
+#endif /* COMMON_OPERATIONS_H */
