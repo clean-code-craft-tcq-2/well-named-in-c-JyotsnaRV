@@ -1,4 +1,4 @@
-#include "commonOperations.h"
+#include "common_Conversions.h"
 #include "main.h"
 
 extern const int MAX_COLORPAIR_NAME_CHARS;
