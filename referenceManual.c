@@ -7,7 +7,7 @@ extern int numberOfMinorColors;
 /*
  **********************************************************************************************************************
  * Service name         : testNumberToPair
- * Syntax               : void printRefernceManual(void)
+ * Syntax               : void printReferenceManual(void)
  * param[in]            : pairNumber
  * param[in]            : MajorColor
  * param[in]            : expectedMinor
@@ -15,7 +15,7 @@ extern int numberOfMinorColors;
  * Description          : Program to print color code refernce manual
  **********************************************************************************************************************
  */
-void printRefernceManual()
+void printReferenceManual(void)
 {
     int pairNumber;
     printf("\nPrinting Color code reference manual\n\n");
